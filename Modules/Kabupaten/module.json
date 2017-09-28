@@ -1,0 +1,16 @@
+{
+    "name": "Kabupaten",
+    "alias": "kabupaten",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Kabupaten\\Providers\\KabupatenServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}
